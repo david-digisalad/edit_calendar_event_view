@@ -43,6 +43,8 @@ android {
     defaultConfig {
         minSdkVersion 16
     }
+
+    namespace "dev.cwolf.editCalendarEventView.edit_calendar_event_view"
 }
 
 dependencies {
